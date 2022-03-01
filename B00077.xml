@@ -1,0 +1,187 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Moreouer yf any be diseased with the pockes...]</title>
+            <author>Gervaes, Master.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1552</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 3 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00077</idno>
+            <idno type="STC">STC 11797.2</idno>
+            <idno type="STC">ESTC S92674</idno>
+            <idno type="EEBO-CITATION">52633254</idno>
+            <idno type="OCLC">ocm 52633254</idno>
+            <idno type="VID">174054</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00077)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174054)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2116:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>[Moreouer yf any be diseased with the pockes...]</title>
+                  <author>Gervaes, Master.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>W. Copeland,</publisher>
+                  <pubPlace>[S.l.</pubPlace>
+                  <date>1552?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: top of sheet mutilated. Title from part of text. Publisher and date from STC (2nd ed.).</note>
+                  <note>Reproduction of original in: Royal College of Surgeons of England. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Patent medicines --  England --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:174054:1"/>
+            <!-- PDF PAGE 106 -->
+            <p>_<gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>the he! <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> of God d<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> dyſeaſes <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>n<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, what <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>rt <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> namely any man or chyldren that be broke<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n in theyr coddes, ſo that theyr guttes be fallen doune into theyr coddes, or <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> other ſwellynges: The canker or ty<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tle, the colyck and <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>e ſkarre in the lyppe, or other dyſeaſes in the mo<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h. Alſo yf any man haue any dyſeaſe in his eyen, whe<gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> it be with ſpurblindnes, or a wem or any other ſkynne <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>wen ouer the ſyghte. Theſe and other ſuch lyke diſeaſes <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>an this forſaid mayſter auoyde and heale by the grace and helpe of God. <g ref="char:leaf">❧</g> Moreouer yf any be diſeaſed with the pockes, or other pryuy diſeaſes, or haue ſore legges of olde or newe greues: let hym come to the forſayde maiſter Geruaes, which is lodged in it long Southwarck, in ſaint Thomas hoſpital. And he wyl heale him with the grace of God: the poore frely for the honor and loue of God: and the ryche for a reaſonable rewarde.</p>
+            <closer>¶ God ſaue the Kynge.</closer>
+         </div>
+         <div type="modern_correspondence">
+            <pb facs="tcp:174054:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 107 -->
+            <pb facs="tcp:174054:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 108 -->
+            <pb facs="tcp:174054:4" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <pb facs="tcp:174054:5" rendition="simple:additions"/>
+            <!-- PDF PAGE 110 -->
+            <pb facs="tcp:174054:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 111 -->
+            <head>LIBRARY OF HARVARD UNIVERSITY CAMBRIDGE, MASSACHUSETTS THE HOUGHTON LIBRARY</head>
+            <opener>
+               <dateline>
+                  <date>16 November 1959</date>
+               </dateline>
+            </opener>
+            <head>Dr. W. R. LeFanu, Librarian Royal College of Surgeons of England Lincoln's Inn Fields London, W. C. 2</head>
+            <opener>
+               <salute>Dear Dr. LeFanu:</salute>
+            </opener>
+            <p>Many thanks for the photograph of your quack bill. I cannot of course be certain of this, but I think it was printed by William Copland about 1550, that is it must have been not after the reign of Edward VI. Copland used the ornament on the right hand in his edition of the Four Sons of Aymon, 1554, he having derived this ornament from Wynken de Worde where I have traced it in several uses. The zig zag ornament was also Wynken de Worde's, but about this period I haven't found it used except "in the house of Berthelet", which should mean Thomas Powell, where it occurs in STC 10477. However the type is Copland's and not Wynken de Worde's or Berthelet's, and I think that as Copland inherited a good many of these minor cuts of Wynken de Worde's and as the type is his, it would appear to be reasonably certain that Copland was the printer and that it's rather later than it's been hitherto dated. The difficulty of course is that the state of the cuts from the tears in the paper is difficult to establish, but certainly they look later than when used by de Worde.</p>
+            <closer>
+               <signed>With kindest regards, Very truly yours, William A. Jackson WAJ:mbd</signed>
+            </closer>
+            <pb facs="tcp:174054:7"/>
+            <!-- PDF PAGE 112 -->
+         </div>
+      </body>
+   </text>
+</TEI>
